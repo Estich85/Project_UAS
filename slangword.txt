@@ -53,6 +53,7 @@ bais:habis
 baks:rokok
 balsem:balsam
 bangkotan:tua
+banget:sangat
 baper:membawa perasaan
 barle:berlebihan
 basing:terserah
@@ -526,6 +527,7 @@ mksdnya:maksudnya
 mlm:malam
 mls:males
 modom:tidur
+moga:semoga
 mokad:mati
 mokong:bandel
 mon maap:mohon maaf
