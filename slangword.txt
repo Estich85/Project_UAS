@@ -320,6 +320,7 @@ gmana:bagaimana
 gmn:bagaimana
 gmna:bagaimana
 gmw:tidak ingin
+gnti:ganti
 gokil:gila
 gomblek:berpacaran
 gpp:tidak masalah
@@ -776,6 +777,7 @@ smlm:semalam
 smpe:sampai
 smua:semua
 smw:semua
+sndiri:sendiri
 sndri:sendiri
 sni:sini
 sobat:sahabat
