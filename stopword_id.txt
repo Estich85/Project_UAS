@@ -578,6 +578,7 @@ katakan
 katakanlah
 katanya
 kau
+kay
 kayak
 ke
 keadaan
@@ -892,6 +893,7 @@ sana
 sangat
 sangatlah
 satu
+say
 saya
 sayalah
 sbh
